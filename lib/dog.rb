@@ -19,5 +19,5 @@ class Dog
   end 
 end 
 flufy=Dog.new(@name,"flufy")
-
+haskey=Dog.new(@breed,"Haskey")
 
