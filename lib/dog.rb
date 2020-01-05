@@ -9,4 +9,3 @@ class Dog
     @name=new_name
   end 
 end 
-flufy=Dog.new("Flufy")
